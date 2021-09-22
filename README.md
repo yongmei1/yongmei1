@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on finishing my final year of studies at Munster Technological University
+I am a Computer Science Student at Munster Technological University.
+
 - 🌱 I’m currently learning about voice chatbots, SSML and AWS technologies
 - 💬 Ask me about what I think about smoothies and juices
 - 📫 How to reach me: Email, Discord
