@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 I am a Computer Science Student at Munster Technological University.
 
-- 🌱 I’m currently learning about voice chatbots, SSML and AWS technologies
+- 🌱 I’m currently learning about voice chatbots, NLP, SSML and AWS technologies
 - 💬 Ask me about what I think about smoothies and juices
 - 📫 How to reach me: Email, Discord
 - ⚡ Fun fact: I've recently been attempting to create new daily habits and making smoothies for everyone in the house is one of them 😁
