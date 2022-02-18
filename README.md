@@ -10,5 +10,5 @@ I am a Computer Science Student at Munster Technological University.
 - 🌱 I’m currently learning about voice chatbots, NLP, SSML and AWS technologies
 - 💬 Ask me about what I think about smoothies and juices
 - 📫 How to reach me: Email, Discord
-- ⚡ Fun fact: I've recently been attempting to create new daily habits and making smoothies for everyone in the house is one of them 😁
+- ⚡ What I like to do in my spare time: listen to podcasts/music, read books, being outdoors  
 
