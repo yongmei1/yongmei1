@@ -7,8 +7,7 @@ Here are some ideas to get you started:-->
 
 I am a Computer Science Graduate from Munster Technological University.
 
-- 🌱 I’m currently learning about voice/text chatbots, NLP, SSML and AWS technologies
-- 💬 Something new I am currently trying: Keeping my houseplants alive and well!
+- 🌱 I’m currently learning: To be updated.
+- 💬 What new thing I am learning today: To be updated.
 - 📫 How to reach me: email ~ yongmeichen831@gmail.com
-- ⚡ What I like to do in my spare time: listen to podcasts/music, read books, learn new things, gymming
-
+- ⚡ Things I like to do in my spare time: Listening to music, Reading, Gymming, Baking and Cooking
