@@ -7,7 +7,6 @@ Here are some ideas to get you started:-->
 
 I am a Computer Science Graduate from Munster Technological University.
 
-- 🌱 I’m currently learning: To be updated.
-- 💬 What new thing I am learning today: To be updated.
+- 🌱 I’m currently learning: DevOps + React!
 - 📫 How to reach me: email ~ yongmeichen831@gmail.com
-- ⚡ Things I like to do in my spare time: Listening to music, Reading, Gymming, Baking and Cooking
+- ⚡ Things I like to do in my spare time: Binge a show, Reading, Eating
